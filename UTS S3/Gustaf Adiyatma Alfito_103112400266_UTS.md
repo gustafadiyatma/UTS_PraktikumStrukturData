@@ -142,7 +142,7 @@ Program buat Doubly Linked List yang bisa ditambah data di akhir, menghapus data
 Berikut adalah hasil eksekusi program (output) ketika dijalankan.
 **-output-**
 
-![(output/output1.png)]
+![](output/output1.png)
 
 4. Penjelasan Lanjutan (Analisis Output)
 
