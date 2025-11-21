@@ -142,6 +142,8 @@ Program buat Doubly Linked List yang bisa ditambah data di akhir, menghapus data
 Berikut adalah hasil eksekusi program (output) ketika dijalankan.
 **-output-**
 
+![(output/output1.png)]
+
 4. Penjelasan Lanjutan (Analisis Output)
 
 Output menghasilkan hasil dari setiap operasi yang dipilih pengguna  Saat memasukkan nilai  list bertambah dan ketika memilih view  program menampilkan isi list dari depan ke belakang. Jika memilih delete last  elemen terakhir hilang dari tampilan  Saat memilih reverse  vdaniew  urutan list dibalik lalu ditampilkan hasilnya  Menu terus muncul kembali sampai pengguna memilih keluar.
